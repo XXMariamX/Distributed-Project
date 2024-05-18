@@ -1,8 +1,0 @@
-
-# CLOUD_IMG: This file was created/modified by the Cloud Image build process
-UUID=6ad1c370-b98c-4944-86bd-1a0958e820a1       /        ext4   discard,errors=>
-UUID=3C45-1400  /boot/efi       vfat    umask=0077      0 1
-#MPI CLUSTER SETUP
-master:/home/azureuser/projFinal /home/azureuser/projFinal nfs
-/dev/disk/cloud/azure_resource-part1    /mnt    auto    defaults,nofail,x-syste>
-
