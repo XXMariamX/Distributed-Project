@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh azureuser@slave3 exit > /dev/null 2>&1 && echo $'Go'
